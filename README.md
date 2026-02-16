@@ -2,7 +2,7 @@
 ### M.S. Analytics @ UC Berkeley  
 
 I build decision-focused analytics systems that translate data into business action.  
-My interests sit at the intersection of data analytics, forecasting, and business strategy.
+I focus on forecasting, customer diagnostics, and optimization to support business strategy.
 
 ---
 
