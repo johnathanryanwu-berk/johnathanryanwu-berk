@@ -17,8 +17,8 @@ I focus on forecasting, customer diagnostics, and optimization to support busine
 
 ## Featured Projects
 
-### Fashion Demand Forecasting  
-Time-series modeling framework for fashion retail demand to support inventory and assortment planning decisions.
+### Housing Demand Forecasting  
+Demand forecasting in the U.S. residential construction supply chain. A two-layer pipeline combining macro Ridge regression baseline with ZIP-level price and division-level sales Random Forest models
 
 ### SaaS Customer Churn Diagnostics  
 Root-cause analysis of churn using an 80/20 hypothesis-driven diagnostic framework developed for a Google-sponsored case competition.
